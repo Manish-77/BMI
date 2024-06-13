@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-git clone 
+git clone https://github.com/Manish-77/BMI.git
 ```
 
 - Go to the directory
